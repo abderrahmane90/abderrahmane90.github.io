@@ -155,11 +155,11 @@ section .heading h2
     height: 100%;
     margin: 30px;
     backface-visibility: #ddd;
-    background: Azure;
+    background: azure;
 }
 #skills .progress-bar
 {
-    background: DarkCyan;
+    background: darkcyan;
 
 }
 #skills progress h5
@@ -173,13 +173,13 @@ ul, ol
 /*-----------------------experiences--------------------*/
 #experiences
 {
-    background:DarkCyan;
+    background: darkcyan;
 
 }
 
 #experiences .heading h2 
 {
-    color:White;
+    color: white;
 }
 .timeline
 {
