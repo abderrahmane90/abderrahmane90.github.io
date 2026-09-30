@@ -136,7 +136,7 @@ section .heading h2
 /*------------------------------skills-----------------------------*/
 #skills
 {
-    background: Grey; 
+    background: white; 
 }
 #skills .heading h2
 {
@@ -147,7 +147,7 @@ section .heading h2
 {
     width: 100px;
     height: 2px;
-    background:white;
+    background:FloralWhite;
     margin: 0 auto;
 }
 #skills .progress
