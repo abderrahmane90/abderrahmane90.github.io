@@ -35,7 +35,7 @@ section .heading h2
 /*-----------------------------------------Menu------------------------------------------*/
 .navbar
 {
-    background: DarkCyan;
+    background:DarkCyan;
     font-size: 12px;
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -87,7 +87,7 @@ section .heading h2
 #about
 {
     padding-top: 100px;
-    background: DarkCyan;
+    background:DarkCyan;
 }
 .profile-picture
 {
