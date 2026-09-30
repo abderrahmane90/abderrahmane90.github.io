@@ -69,7 +69,7 @@ section .heading h2
 }
 .navbar-nav a:hover, .navbar-nav li.active a
 {
-    color:DarkGrey !important;
+    color: DarkGrey !important;
     background-color: #fff !important;
 
 }
