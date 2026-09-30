@@ -147,7 +147,7 @@ section .heading h2
 {
     width: 100px;
     height: 2px;
-    background:Gainsboro;
+    background: Gray;
     margin: 0 auto;
 }
 #skills .progress
