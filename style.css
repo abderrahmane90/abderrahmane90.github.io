@@ -179,7 +179,7 @@ ul, ol
 
 #experiences .heading h2 
 {
-    color: Red;
+    color: DarkCyan;
 }
 .timeline
 {
@@ -193,7 +193,7 @@ ul, ol
     position: absolute;
     content: " ";
     width: 5px;
-    background-color:white;
+    background-color:DarkCyan;
     left: 50%;
     margin-left: 2.5px;
 }
@@ -222,7 +222,7 @@ ul, ol
     top: 16px;
     left: 50%;
     margin-left: -25px;
-    background-color: white;
+    background-color: DarkCyan;
     border-radius: 50%;
 }
 .timeline-panel-container
@@ -245,7 +245,7 @@ ul, ol
     padding: 20px 25px;
     position:relative;
     box-shadow: 0 1px 6px rgba(0,0,0,0.75);
-    background: white ;
+    background: DarkCyan ;
 
 }
 .timeline-panel-container-inverted .timeline-panel
