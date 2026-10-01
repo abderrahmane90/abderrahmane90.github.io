@@ -222,7 +222,7 @@ ul, ol
     top: 16px;
     left: 50%;
     margin-left: -25px;
-    background-color: white;
+    color: white;
     border-radius: 50%;
 }
 .timeline-panel-container
