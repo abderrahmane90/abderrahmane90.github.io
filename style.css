@@ -264,6 +264,7 @@ ul, ol
     border-right: 0 solid #fff;
     border-bottom: 14px solid transparent;
     content: " ";
+    background-color: white;
 
 }
 .timeline-panel-container-inverted .timeline-panel:after
