@@ -245,7 +245,6 @@ ul, ol
     padding: 20px 25px;
     position:relative;
     box-shadow: 0 1px 6px rgba(0,0,0,0.75);
-    background: white;
 
 }
 .timeline-panel-container-inverted .timeline-panel
@@ -264,7 +263,6 @@ ul, ol
     border-right: 0 solid #fff;
     border-bottom: 14px solid transparent;
     content: " ";
-    background-color: white;
 
 }
 .timeline-panel-container-inverted .timeline-panel:after
