@@ -155,7 +155,7 @@ section .heading h2
     height: 100%;
     margin: 30px;
     backface-visibility: #ddd;
-    background: azure;
+    background: white;
 }
 #skills .progress-bar
 {
@@ -282,7 +282,7 @@ ul, ol
 }
 .timeline .heading h4
 {
-    color: DarkCyan; 
+    color: white; 
     
 }
 
