@@ -360,7 +360,7 @@ ul, ol
     padding: 20px 25px;
     position:relative;
     box-shadow: 0 1px 6px rgba(0,0,0,0.75);
-    background: DarkCyan ;
+    background: white;
 
 }
 .timeline-panel-container-inverted .timeline-panel
@@ -397,7 +397,7 @@ ul, ol
 }
 .timeline .heading h4
 {
-    color: White; 
+    color: #333; 
     
 }
 /*********************Education*********************************/
