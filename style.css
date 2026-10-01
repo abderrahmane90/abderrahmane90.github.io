@@ -136,7 +136,7 @@ section .heading h2
 /*------------------------------skills-----------------------------*/
 #skills
 {
-    background: silver; 
+    background: silver !important; 
 }
 #skills .heading h2
 {
