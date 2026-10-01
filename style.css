@@ -193,7 +193,7 @@ ul, ol
     position: absolute;
     content: " ";
     width: 5px;
-    background-color: White;
+    background-color: white;
     left: 50%;
     margin-left: 2.5px;
 }
@@ -213,7 +213,7 @@ ul, ol
 }
 .timeline li .timeline-badge
 {
-    color: white;
+    color: DarkCyan;
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -222,7 +222,7 @@ ul, ol
     top: 16px;
     left: 50%;
     margin-left: -25px;
-    background-color: DarkCyan;
+    background-color: white;
     border-radius: 50%;
 }
 .timeline-panel-container
