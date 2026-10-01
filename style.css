@@ -213,7 +213,8 @@ ul, ol
 }
 .timeline li .timeline-badge
 {
-    color: white;
+    color: DarkCyan;        /* icon color */
+    background: white;      /* circle color */
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -222,7 +223,6 @@ ul, ol
     top: 16px;
     left: 50%;
     margin-left: -25px;
-    color: white;
     border-radius: 50%;
 }
 .timeline-panel-container
