@@ -222,7 +222,7 @@ ul, ol
     top: 16px;
     left: 50%;
     margin-left: -25px;
-    background-color: White;
+    background-color: DarkCyan;
     border-radius: 50%;
 }
 .timeline-panel-container
@@ -245,7 +245,7 @@ ul, ol
     padding: 20px 25px;
     position:relative;
     box-shadow: 0 1px 6px rgba(0,0,0,0.75);
-    background: White ;
+    background: white;
 
 }
 .timeline-panel-container-inverted .timeline-panel
