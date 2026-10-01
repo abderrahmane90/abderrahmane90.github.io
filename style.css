@@ -213,8 +213,8 @@ ul, ol
 }
 .timeline li .timeline-badge
 {
-    color: DarkCyan;        /* icon color */
-    background: white;      /* circle color */
+    color: #008B8B;        /* icon color (DarkCyan) */
+    background: #ffffff;   /* circle color (white) */
     width: 50px;
     line-height: 50px;
     font-size: 20px;
