@@ -229,13 +229,13 @@ ul, ol
 {
     width: 50%;
     float: left;
-    background-color: White;
+    background: White;
 }
 .timeline-panel-container-inverted
 {
     width: 50%;
     float: right;
-    background-color: White;
+    background: White;
 }
 .timeline-panel
 {
