@@ -193,7 +193,7 @@ ul, ol
     position: absolute;
     content: " ";
     width: 5px;
-    background-color:DarkCyan;
+    background-color: White;
     left: 50%;
     margin-left: 2.5px;
 }
@@ -222,7 +222,7 @@ ul, ol
     top: 16px;
     left: 50%;
     margin-left: -25px;
-    background-color: DarkCyan;
+    background-color: White;
     border-radius: 50%;
 }
 .timeline-panel-container
@@ -245,7 +245,7 @@ ul, ol
     padding: 20px 25px;
     position:relative;
     box-shadow: 0 1px 6px rgba(0,0,0,0.75);
-    background: DarkCyan ;
+    background: White ;
 
 }
 .timeline-panel-container-inverted .timeline-panel
@@ -282,7 +282,7 @@ ul, ol
 }
 .timeline .heading h4
 {
-    color: DarkCyan; 
+    color: White; 
     
 }
 
